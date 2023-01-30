@@ -13,7 +13,7 @@ You have to enable touch keyboard on taskbar.
 
 ```dart
 
-import 'package:flutter_osk/flutter_osk.dart';
+import 'package:flutter_osk_x/flutter_osk_x.dart';
 
 void main(){
     // show keyboard
