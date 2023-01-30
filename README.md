@@ -1,4 +1,4 @@
-# flutter_osk
+# flutter_osk_x
 
 A package to show/hide virtual keyboard on Windows 10.
 
